@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mohit/project/mlflow/mlflowtest/mlruns/0/91d0352eec0c47439f200a9e25b9959a/artifacts
+end_time: 1655970781675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 91d0352eec0c47439f200a9e25b9959a
+run_uuid: 91d0352eec0c47439f200a9e25b9959a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655970780292
+status: 3
+tags: []
+user_id: mohit
