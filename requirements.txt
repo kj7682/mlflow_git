@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pypdf
+sentence-transformers
+faiss-cpu
+langchain
+python-dotenv
+openai
+streamlit
+requests
+pytest
